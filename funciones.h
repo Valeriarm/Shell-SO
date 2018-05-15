@@ -2,8 +2,8 @@
 #define __FUNCIONES__
 
 void llenarArray(char *argsL[], char comandoL[]);
-void rdpipe(char comando[]);
-void comandoSimple(char comando[]);
-void redireccion(char comando[]);
+int rdpipe(char comando[]);
+int comandoSimple(char comando[]);
+int redireccion(char comando[]);
 void ejecutarComando(char comando[]);
 #endif
