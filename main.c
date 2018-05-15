@@ -17,7 +17,7 @@ Fecha: 8 Mayo 2018
 
 int main(int argc, char const *argv[]){
 	int pid;
-	char comando[90];
+	char comando[100];
 
    while (1){  
 
