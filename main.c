@@ -1,3 +1,13 @@
+/*
+Integrantes: 
+Valeria Rivera - 1626837
+Cristian Perafan - 1625690
+Walter Santacruz -
+
+Fecha: 8 Mayo 2018
+*/
+
+
 #include <stdio.h>                                                                                                                              
 #include <unistd.h>                                                                
 #include <string.h>                                                                
