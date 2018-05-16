@@ -2,8 +2,7 @@
 Integrantes: 
 Valeria Rivera - 1626837
 Cristian Perafan - 1625690
-Walter Santacruz -
-
+Walter Santacruz - 1630645
 Fecha: 8 Mayo 2018
 */
 
